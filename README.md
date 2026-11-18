@@ -9,7 +9,7 @@
 - [Описание эксперимента](Step001.Basic/README.md)
 - [Результаты и выводы](Step001.Basic/RESULTS.md)
 
-Запуск при установленном .NET 8 SDK:
+Запуск при установленном .NET 10 SDK:
 
 ```bash
 dotnet run --project Step001.Basic/Step001.Basic.csproj
